@@ -4,8 +4,10 @@ This is a web api created for the "Summer 2019 Developer Intern Challenge" by Yo
 
 The API has the following functions:- 
 
-1. <b> Fetch all Products </b>
+1. <b> Fetching all Products </b>
 
+To call this function, the user must request for "http://localhost/[file_name]/api/main/read_all.php". The data is returned in the following format.
+  
 2. <b> Buying a Product </b>
 
 3. <b> Buying multiple Products (Cart) </b>
